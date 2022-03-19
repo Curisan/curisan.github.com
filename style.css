@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CSS Document */
+html{
+	display:block;
+}
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    background: #999;
+    margin: 0px 0px 0px 200px;
+}
+h1 {
+    color: #000;
+    clear: both;
+    padding-top: 30px;
+    margin: 0;
+}
+.about {
+    margin: 0px 10px 10px 0px;
+    float: left;
+    position: relative;
+    clear: none;
+    width: 920px;
+    height: 350px;
+    background: #ddd;
+}
+p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+.education {
+    margin: 0px 10px 10px 0px;
+    float: left;
+    position: relative;
+    clear: none;
+    width: 920px;
+    height: 330px;
+    background: #ddd;
+}
+.research {
+    margin: 0px 10px 10px 0px;
+    float: left;
+    position: relative;
+    clear: none;
+    width: 920px;
+    height: 100px;
+    background: #ddd;
+}
+.work {
+    margin: 0px 10px 10px 0px;
+    float: left;
+    position: relative;
+    clear: none;
+    width: 920px;
+    height: 100px;
+    background: #ddd;
+}
+.project {
+    margin: 0px 10px 10px 0px;
+    float: left;
+    position: relative;
+    clear: none;
+    width: 920px;
+    height: 120px;
+    background: #ddd;
+}

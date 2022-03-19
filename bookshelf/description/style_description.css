@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+html{
+	background-color:rgba(201,192,192,1.00);
+}
+.desc{
+	font-size:20px;
+	margin-left:200px;
+	margin-right:200px;
+	margin-top:-20px;
+	border-left:thick rgba(0,0,0,1.00);
+	background-color:rgba(255,255,255,1.00);
+	height:1000px;
+}
+
