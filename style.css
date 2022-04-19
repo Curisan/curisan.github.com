@@ -3,27 +3,30 @@
 html{
 	display:block;
 }
-body {
+
+.body {
     font-family: Arial, sans-serif;
     font-size: 16px;
     line-height: 1.5;
-    background: #999;
-    margin: 0px 0px 0px 200px;
+    /*background: #999;*/
+    margin-bottom: 100px;
 }
+
 h1 {
-    color: #000;
+    /*color: #000;*/
     clear: both;
     padding-top: 30px;
     margin: 0;
 }
 .about {
     margin: 0px 10px 10px 0px;
-    float: left;
-    position: relative;
+    /*float: left;*/
+    /*position: relative;*/
     clear: none;
-    width: 920px;
-    height: 350px;
-    background: #ddd;
+    /*width: 920px;*/
+    /*height: 350px;*/
+    /*background: #ddd;*/
+    padding-bottom: 10px;
 }
 p {
     display: block;
@@ -33,38 +36,38 @@ p {
     -webkit-margin-end: 0px;
 }
 .education {
-    margin: 0px 10px 10px 0px;
-    float: left;
-    position: relative;
+    /*margin: 0px 10px 10px 0px;*/
+    /*float: left;*/
+    /*position: relative;*/
     clear: none;
-    width: 920px;
-    height: 400px;
-    background: #ddd;
+    /*width: 920px;*/
+    /*height: 400px;*/
+    /*background: #ddd;*/
 }
 .research {
-    margin: 0px 10px 10px 0px;
-    float: left;
-    position: relative;
+    /*margin: 0px 10px 10px 0px;*/
+    /*float: left;*/
+    /*position: relative;*/
     clear: none;
-    width: 920px;
-    height: 100px;
-    background: #ddd;
+    /*width: 920px;*/
+    /*height: 100px;*/
+    /*background: #ddd;*/
 }
 .work {
-    margin: 0px 10px 10px 0px;
-    float: left;
-    position: relative;
+    /*margin: 0px 10px 10px 0px;*/
+    /*float: left;*/
+    /*position: relative;*/
     clear: none;
-    width: 920px;
-    height: 200px;
-    background: #ddd;
+    /*width: 920px;*/
+    /*height: 200px;*/
+    /*background: #ddd;*/
 }
 .project {
-    margin: 0px 10px 10px 0px;
-    float: left;
-    position: relative;
+    /*margin: 0px 10px 10px 0px;*/
+    /*float: left;*/
+    /*position: relative;*/
     clear: none;
-    width: 920px;
-    height: 120px;
-    background: #ddd;
+    /*width: 920px;*/
+    /*height: 120px;*/
+    /*background: #ddd;*/
 }
